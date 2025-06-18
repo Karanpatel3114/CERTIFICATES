@@ -1,6 +1,6 @@
 # 🎓 CERTIFICATES
 
-This repository contains professional certificates I’ve earned in the fields of **Cloud Computing**, **Machine Learning**, and **Project Management** through AWS Academy, Coursera, and IBM Cognitive Class.
+This repository contains professional certificates I’ve earned in the fields of **Cloud Computing**, **Machine Learning**, and **Project Management** through AWS Academy and Coursera.
 
 ---
 
@@ -18,15 +18,6 @@ These certificates were earned through AWS Academy:
 Project management fundamentals using Jira:
 
 - [Jira Fundamentals Course Certificate](./Coursera/Coursera%207GG3H0TUQGLC-2.pdf)
-
----
-
-## 🟣 IBM Cognitive Class Certifications
-
-Courses completed through IBM's Cognitive Class platform:
-
-- [Python for Data Science Certificate](./ibm-certificates/Python-for-Data-Science.pdf)
-- [Data Science 101 Certificate](./ibm-certificates/Data-Science-101.pdf)
 
 ---
 
